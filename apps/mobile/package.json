@@ -10,6 +10,15 @@
     "react-native": "*",
     "react-native-svg": "*",
     "metro-config": "*",
-    "react-native-svg-transformer": "*"
+    "react-native-svg-transformer": "*",
+    "@swc/helpers": "*",
+    "tamagui": "*",
+    "@tamagui/config": "*",
+    "@nx-tamagui/ui": "*",
+    "@tamagui/animations-react-native": "*",
+    "@tamagui/font-inter": "*",
+    "@tamagui/shorthands": "*",
+    "@tamagui/themes": "*",
+    "@tamagui/react-native-media-driver": "*"
   }
 }

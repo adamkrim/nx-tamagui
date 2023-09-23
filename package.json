@@ -72,10 +72,16 @@
   },
   "dependencies": {
     "@swc/helpers": "~0.5.2",
+    "@tamagui/animations-react-native": "^1.69.3",
+    "@tamagui/font-inter": "^1.69.3",
+    "@tamagui/react-native-media-driver": "^1.69.3",
+    "@tamagui/shorthands": "^1.69.3",
+    "@tamagui/themes": "^1.69.3",
     "next": "13.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.72.4",
+    "tamagui": "^1.69.3",
     "tslib": "^2.3.0"
   }
 }
