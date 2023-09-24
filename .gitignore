@@ -112,3 +112,21 @@ yarn-error.log
 
 
 apps/mobile-native-e2e/artifacts
+
+# Expo
+node_modules/
+.expo/
+.yarn/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+cache/
+
+
+apps/mobile-expo-e2e/artifacts
