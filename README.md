@@ -10,7 +10,7 @@
 - [x] Create a workspace with Nx
 - [x] Create nextjs, react, react-native, and expo apps
 - [x] Add starting scripts in package.json
-- [ ] Clear the pre-configured style
+- [x] Clear the pre-configured style
 - [ ] Create an ui library with tamagui
 - [ ] Import and use the ui library in nextjs
 - [ ] Import and use the ui library in react-native

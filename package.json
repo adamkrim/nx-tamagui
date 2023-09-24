@@ -9,8 +9,6 @@
     "start:native:ios": "nx run-ios mobile-native",
     "start:native:android": "nx run-android mobile-native",
     "start:expo": "nx start mobile-expo",
-    "start:expo:ios": "nx run-ios mobile-expo",
-    "start:expo:android": "nx run-android mobile-expo",
     "verify:affected": "nx format:write && nx format:check && nx affected -t lint --fix --parallel=3 && nx affected -t test --parallel=3",
     "verify:all": "nx format:write && nx format:check && nx run-many -t lint --fix --parallel=3 && nx run-many -t test --parallel=3",
     "----NOTICE-1----": "Nextjs is excluded because static page generation may require a backend running during build time",
